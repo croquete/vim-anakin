@@ -25,9 +25,9 @@ endif
 
 " Background and menu colors
 hi Cursor                     guibg=#FFFFFF gui=none             ctermbg=231
-hi Normal       guifg=#FFFFFF guibg=#000000 gui=none ctermfg=231 ctermbg=232  cterm=none
-hi NonText      guifg=#5f5f87 guibg=#000000 gui=none ctermfg=60  ctermbg=232  cterm=none
-hi LineNr       guifg=#585858 guibg=#080808 gui=none ctermfg=240 ctermbg=232  cterm=none
+hi Normal       guifg=#FFFFFF guibg=#121212 gui=none ctermfg=231 ctermbg=233  cterm=none
+hi NonText      guifg=#5f5f87 guibg=#121212 gui=none ctermfg=60  ctermbg=233  cterm=none
+hi LineNr       guifg=#444444 guibg=#121212 gui=none ctermfg=238 ctermbg=233  cterm=none
 hi StatusLine   guifg=#ffffff guibg=#1c1c1c gui=none ctermfg=234 ctermbg=231  cterm=italic
 hi StatusLineNC guifg=#000000 guibg=#D3D7D7 gui=none ctermfg=16  ctermbg=188  cterm=none
 hi VertSplit    guifg=#000000 guibg=#E2E6E6 gui=none ctermfg=16  ctermbg=254  cterm=none
